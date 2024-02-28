@@ -1,0 +1,11 @@
+From 1970 to 2017, there has been a significant increase in the number of terrorist incidents, soaring from 647 to 10,743 total attacks. The pinnacle of this surge occurred in 2014, recording the highest incidence of attacks at 16,694.
+
+The predominant method employed in these attacks was Bombing/Explosion, constituting the most common type with a success rate of 48.62%. When examining target types, Private Citizens & Property took precedence, holding the top position, closely followed by Military engagements.
+
+The region of Middle East & North Africa demonstrated the highest success rate in executing terrorist activities during this timeframe.
+
+In terms of geographical impact, Iraq, Pakistan, and Afghanistan emerged as the top three nations grappling with the highest frequency of terrorist attacks.
+
+Within the organized terrorist landscape, the Taliban stood out as the most formidable entity, orchestrating 11,964 attacks and displaying a preference for employing explosives as their weapon of choice.
+
+
